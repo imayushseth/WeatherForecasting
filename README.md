@@ -1,4 +1,4 @@
-# WeatherForecasting
+# WeatherForecasting-WF-App
 <h3>Statement:</h3> <h4>Weather Forecast and It's Visualization using Augmented Reality: Mobile App.(SS589)<br>
 Project done by Team CodeBeast.<br>
 This project contains code for WF App shortform of Weather Forecast App, created using Python-Django, HTML, CSS & JAVASCRIPT. </h4><br>
