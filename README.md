@@ -6,6 +6,8 @@
 <h3>3. Code Explanation on <a href="https://youtu.be/D0HykV6DNys">YouTube </a></h3>
 <h3>4. Separate Working Model of <a href="https://drive.google.com/file/d/1RCy2BLHgZacXxl17fFk4Qs3z6XLlkfgE/view?usp=drivesdk">WF App</a></h3>
 <h3>5. Link to <a href="https://drive.google.com/file/d/1WdO403cGwLdlqZIzaJv4qUE516MYruaV/view?usp=drivesdk">AR App </a>Presentation</h3>
+<h3>6. Idea/Approach Detail <a href="https://drive.google.com/file/d/16CjSQKqUBNYVJeyBCbGP9CpEWcVGBnA3/view?usp=drivesdk">Presentation </a></h3>
+
 
 
 
