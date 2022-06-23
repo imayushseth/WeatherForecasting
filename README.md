@@ -16,16 +16,12 @@
 <h3>6. Idea/Approach Detail <a href="https://drive.google.com/file/d/16CjSQKqUBNYVJeyBCbGP9CpEWcVGBnA3/view?usp=drivesdk">Presentation </a></h3>
 
 <hr>
+<h1>Screenshots</h1>
 
 
 
 
-
-
-
-
-<h2>Statement:</h2> <h4>Weather Forecast and It's Visualization using Augmented Reality: Mobile App.(SS589)<br>
-Project done by Team CodeBeast.<br>
+<h2>Statement:</h2> <h4>Weather Forecast.<br>
 This project contains code for WF App shortform of Weather Forecast App, created using Python-Django, HTML, CSS & JAVASCRIPT. </h4><br>
  
 <h1>How to Get Started</h1>
