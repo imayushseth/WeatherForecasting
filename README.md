@@ -18,8 +18,15 @@
 <hr>
 <h1>Screenshots</h1>
 
-
-
+<img src="https://user-images.githubusercontent.com/92884361/175791333-377ceb18-ec5d-4603-b474-119535206d39.png" /><br>
+<img src="https://user-images.githubusercontent.com/92884361/175791335-2b83f53c-54da-4528-b824-0d8949882113.png" /><br>
+<img src="https://user-images.githubusercontent.com/92884361/175791336-33d5718e-a13e-4aab-b5e9-3d9d89d76b31.png" /><br>
+<img src="https://user-images.githubusercontent.com/92884361/175791323-95c6c078-27eb-49c1-8c7f-8947c88e3d64.png" /><br>
+<img src="https://user-images.githubusercontent.com/92884361/175791325-8ad49e5e-0fdc-4264-9037-62ef80145451.png" /><br>
+<img src="https://user-images.githubusercontent.com/92884361/175791327-bb550afd-725f-442b-96c9-414b92032025.png" /><br>
+<img src="https://user-images.githubusercontent.com/92884361/175791328-895c3b5e-c4c7-4b89-9d7f-904482eb592a.png" /><br>
+<img src="https://user-images.githubusercontent.com/92884361/175791330-2b6182e7-216c-4c67-ba14-aa795f4b84ea.png" /><br>
+<img src="https://user-images.githubusercontent.com/92884361/175791331-c30b2ed6-bd3b-455b-bb4c-f319f7d2edfd.png" /><br>
 
 <h2>Statement:</h2> <h4>Weather Forecast.<br>
 This project contains code for WF App shortform of Weather Forecast App, created using Python-Django, HTML, CSS & JAVASCRIPT. </h4><br>
